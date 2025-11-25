@@ -1,0 +1,72 @@
+[2025-11-20T08:00:00] INFO: System startup complete
+[2025-11-20T08:05:12] WARNING: Disk usage at 80%
+[2025-11-20T08:10:45] ERROR: Failed to connect to database
+[2025-11-20T08:15:33] INFO: User 'admin' logged in
+[2025-11-20T08:22:10] ERROR: API timeout on /users endpoint
+[2025-11-20T08:30:00] INFO: Backup started
+[2025-11-20T08:35:22] WARNING: SSL certificate expires in 14 days
+[2025-11-20T08:40:11] ERROR: Permission denied for /var/log/secure
+[2025-11-20T08:45:00] INFO: Service restarted
+[2025-11-20T08:50:33] WARNING: High memory usage (92%)
+[2025-11-20T08:55:21] ERROR: Network unreachable
+[2025-11-20T09:00:00] INFO: Cron job executed
+[2025-11-20T09:05:44] WARNING: Unusual login attempt from 192.168.1.100
+[2025-11-20T09:10:12] ERROR: Database query failed
+[2025-11-20T09:15:00] INFO: User session expired
+[2025-11-20T09:20:33] WARNING: Disk usage at 85%
+[2025-11-20T09:25:11] ERROR: File write failed: disk full
+[2025-11-20T09:30:00] INFO: System health check passed
+[2025-11-20T09:35:22] WARNING: CPU load average: 4.2
+[2025-11-20T09:40:10] ERROR: Service 'nginx' crashed
+[2025-11-20T09:45:00] INFO: Automatic restart initiated
+[2025-11-20T09:50:33] WARNING: Memory swap usage at 70%
+[2025-11-20T09:55:21] ERROR: Failed to send email alert
+[2025-11-20T10:00:00] INFO: Daily report generated
+[2025-11-21T08:00:00] INFO: System startup complete
+[2025-11-21T08:05:12] WARNING: Disk usage at 82%
+[2025-11-21T08:10:45] ERROR: Failed to connect to database
+[2025-11-21T08:15:33] INFO: User 'admin' logged in
+[2025-11-21T08:22:10] ERROR: API timeout on /users endpoint
+[2025-11-21T08:30:00] INFO: Backup started
+[2025-11-21T08:35:22] WARNING: SSL certificate expires in 13 days
+[2025-11-21T08:40:11] ERROR: Permission denied for /var/log/secure
+[2025-11-21T08:45:00] INFO: Service restarted
+[2025-11-21T08:50:33] WARNING: High memory usage (94%)
+[2025-11-21T08:55:21] ERROR: Network unreachable
+[2025-11-21T09:00:00] INFO: Cron job executed
+[2025-11-21T09:05:44] WARNING: Unusual login attempt from 192.168.1.100
+[2025-11-21T09:10:12] ERROR: Database query failed
+[2025-11-21T09:15:00] INFO: User session expired
+[2025-11-21T09:20:33] WARNING: Disk usage at 87%
+[2025-11-21T09:25:11] ERROR: File write failed: disk full
+[2025-11-21T09:30:00] INFO: System health check passed
+[2025-11-21T09:35:22] WARNING: CPU load average: 4.5
+[2025-11-21T09:40:10] ERROR: Service 'nginx' crashed
+[2025-11-21T09:45:00] INFO: Automatic restart initiated
+[2025-11-21T09:50:33] WARNING: Memory swap usage at 75%
+[2025-11-21T09:55:21] ERROR: Failed to send email alert
+[2025-11-21T10:00:00] INFO: Daily report generated
+[2025-11-22T08:00:00] INFO: System startup complete
+[2025-11-22T08:05:12] WARNING: Disk usage at 84%
+[2025-11-22T08:10:45] ERROR: Failed to connect to database
+[2025-11-22T08:15:33] INFO: User 'admin' logged in
+[2025-11-22T08:22:10] ERROR: API timeout on /users endpoint
+[2025-11-22T08:30:00] INFO: Backup started
+[2025-11-22T08:35:22] WARNING: SSL certificate expires in 12 days
+[2025-11-22T08:40:11] ERROR: Permission denied for /var/log/secure
+[2025-11-22T08:45:00] INFO: Service restarted
+[2025-11-22T08:50:33] WARNING: High memory usage (95%)
+[2025-11-22T08:55:21] ERROR: Network unreachable
+[2025-11-22T09:00:00] INFO: Cron job executed
+[2025-11-22T09:05:44] WARNING: Unusual login attempt from 192.168.1.100
+[2025-11-22T09:10:12] ERROR: Database query failed
+[2025-11-22T09:15:00] INFO: User session expired
+[2025-11-22T09:20:33] WARNING: Disk usage at 89%
+[2025-11-22T09:25:11] ERROR: File write failed: disk full
+[2025-11-22T09:30:00] INFO: System health check passed
+[2025-11-22T09:35:22] WARNING: CPU load average: 4.8
+[2025-11-22T09:40:10] ERROR: Service 'nginx' crashed
+[2025-11-22T09:45:00] INFO: Automatic restart initiated
+[2025-11-22T09:50:33] WARNING: Memory swap usage at 80%
+[2025-11-22T09:55:21] ERROR: Failed to send email alert
+[2025-11-22T10:00:00] INFO: Daily report generated
